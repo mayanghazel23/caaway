@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 
 :root {
   --blue: #79A9F5;
@@ -5336,7 +5336,7 @@ input[type="button"].btn-block {
   display: inline-block;
   padding-right: 0.5rem;
   color: #212529;
-  content: "·";
+  content: "�";
 }
 
 .breadcrumb-item + .breadcrumb-item:hover::before {
